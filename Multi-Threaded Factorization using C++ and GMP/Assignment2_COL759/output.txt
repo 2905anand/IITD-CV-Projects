@@ -1,0 +1,28 @@
+
+Size of the Factor Base is = 2261
+B-smooth Value = 43759
+
+Sieving from -2556060 to 2556060
+
+Thread ID - 0x16f717000  Sieving in Range [ -2556060, -1917046 ] 
+Thread ID - 0x16f7a3000  Sieving in Range [ -1917045, -1278031 ] 
+Thread ID - 0x16f947000  Sieving in Range [ 0, 639014 ] 
+Thread ID - 0x16f8bb000  Sieving in Range [ -639015, -1 ] 
+Thread ID - 0x16faeb000  Sieving in Range [ 1917045, 2556060 ] 
+Thread ID - 0x16f82f000  Sieving in Range [ -1278030, -639016 ] 
+Thread ID - 0x16f9d3000  Sieving in Range [ 639015, 1278029 ] 
+Thread ID - 0x16fa5f000  Sieving in Range [ 1278030, 1917044 ] 
+
+
+Matrix Size = 2461
+
+Found 414 dependencies
+
+--------------------------------
+THE FINAL FACTORS ARE 9392785320962568989 AND/OR 584081353
+--------------------------------
+
+
+--------------------------------
+Time taken: 273.652 seconds.
+--------------------------------

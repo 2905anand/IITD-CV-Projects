@@ -1,0 +1,60 @@
+-----------------------------------------------
+INPUT CIPHER TEXT IS: 
+
+Ke y hfccj rhcjrpe vfuc, mjvpt ekmcs t hzqwxtdyc gcdcs Ewty. Wx yrq zgqnl uht ygh dkebcxuj ycw fvce eqmc uht kft lgr. Ckxtp bpr, dvddkg kft lwe pdlg, Csrt yfsaw uvr dnv zl wbu ncpmjvptw dfyi, gcmgvtvzlv mjv kxlvp upmgiq ih errra hzqw yqi rwx xzjativ. Fxl nzdt pcj qxfrcc qnv wsaykcjxgi, rls mjv qtt yrq wbu tjdlgjr rhogycbqe. Mcx ofpcbpx, yh Ewty rtuk fxl pvr xgvf rwx yrrtk, jv dtev rl jgwjspe tvqxlvrlrx. Jv njenvb lbvy yae jzq hmtvlvmj, vvexekgcz c cygzg tyivj, ssi pjvl wx jrsaxf kft ggk mcmq kft uqrr, wx hfscw ufktmjzlv xzkpphtugcttp—y vhnucc ykjf hakdktkkee xg vyc bhtegcz nzewm. Vyc ubuy upl wejxdg rln Ewty wtf vttk uvcc, pkkf hvccch mjrr hiciiaxf cgzx ullabiyr dg yrrtk. Cj ft kgrawxf km ihwtf xm, vyc ubuy jdhmvb pm jzk lbvy cnxu kfpm uvcbxf rjbhuk fjfce, dxenvb lbvy y hmtrlvx kertenzetgev. Jjvc nyh fgjktkkqcs, uwk yh ag tmcmgdnatvvb lack rd wq, kft ykjf qxirl ih ugcpd ke y khktc pl ufdi tu r uwbugcgbpx zgxgqc. 
+
+
+-----------------------------------------------
+Possible Key Size as per Kasiski Method: 
+
+170 199 19 7 11 37 3 5 2 67 
+
+
+-----------------------------------------------
+Possible Key Length from 2 to 10 is :
+7 3 5 2 
+ 
+
+For key of size2  IC VALUE IS 0.0439325
+For key of size3  IC VALUE IS 0.0437901
+For key of size5  IC VALUE IS 0.0681428
+For key of size7  IC VALUE IS 0.0461869
+
+-----------------------------------------------
+
+Finalised Key as per Index of Coincidence Method is --  5
+
+
+
+-----------------------------------------------
+26 Possible KEYS: 
+
+APWNR 0
+BQXOS 0
+CRYPT 57
+DSZQU 0
+ETARV 0
+FUBSW 0
+GVCTX 0
+HWDUY 0
+IXEVZ 5
+JYFWA 0
+KZGXB 0
+LAHYC 0
+MBIZD 0
+NCJAE 0
+ODKBF 0
+PELCG 0
+QFMDH 0
+RGNEI 0
+SHOFJ 0
+TIPGK 0
+UJQHL 0
+VKRIM 0
+WLSJN 0
+XMTKO 0
+YNULP 0
+ZOVMQ 0
+
+Key: CRYPT
+Plaintext: In a small coastal town, there lived a fisherman named Luca. He was known for his kindness and deep love for the sea. Every day, before the sun rose, Luca would set out in his weathered boat, navigating the misty waters to catch fish for the village. His life was simple but fulfilling, and the sea was his closest companion. One morning, as Luca cast his net into the water, he felt an unusual resistance. He pulled with all his strength, expecting a large catch, but when he hauled the net onto the boat, he found something extraordinary—a golden fish shimmering in the morning light. The fish was unlike any Luca had ever seen, with scales that sparkled like sunlight on water. As he reached to touch it, the fish looked at him with eyes that seemed almost human, filled with a strange intelligence. Luca was mesmerized, but as he contemplated what to do, the fish began to speak in a voice as soft as a whispering breeze. 
